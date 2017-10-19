@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MenuScript/BackMenu.cs">
+    <Files>
+      <File FileName="Assets/MenuScript/BackMenu.cs" Line="25" Column="8" />
+      <File FileName="Assets/MenuScript/loading.cs" Line="14" Column="3" />
+      <File FileName="Assets/MenuScript/OpenAds.cs" Line="21" Column="1" />
+      <File FileName="Assets/SnakeScripts/SnakeMovement.cs" Line="539" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
